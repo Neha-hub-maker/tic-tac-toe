@@ -1,5 +1,5 @@
 # Simple Tic Tac Toe game for two players
-
+print("Welcome to Tic Tac Toe!") 
 def print_board(board):
     for row in board:
         print(" | ".join(row))
